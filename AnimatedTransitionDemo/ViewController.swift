@@ -37,6 +37,8 @@ class ViewController: UIViewController {
         self.view.addSubview(btn1)
     }
     
+    
+
     func clickHandle(sender:UIButton) {
         
         let toVC = ToViewController()

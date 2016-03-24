@@ -35,4 +35,8 @@ class PresentedAnimation : NSObject , UIViewControllerAnimatedTransitioning {
         }
         print("animateTransition")
     }
+    
+    func animationEnded(transitionCompleted: Bool) {
+        print("end")
+    }
 }
