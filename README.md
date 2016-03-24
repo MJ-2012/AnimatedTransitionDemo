@@ -70,3 +70,5 @@ extension ViewController : UIViewControllerTransitioningDelegate {
         return DismissAnimation()
     }
 }
+###效果图
+![Mou icon](https://github.com/MJ-2012/AnimatedTransitionDemo/blob/master/demo.gif)
